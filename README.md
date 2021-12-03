@@ -6,7 +6,7 @@ The title makes it sound like there’s a ‘huge’ learning curve, because the
 Link to a discord server I’ve made for Linux (valid till 9/12/21): https://discord.gg/RAv4nBgm
 
 
-My Story 
+# My Story 
 (read this in parts, when you get bored of the normal guide ;) )
 
 I started tinkering with Linux (or rather GNU/Linux) in the last 6 months of JEE prep as a way to pass time, learn something new and have fun during my breaks. Before that all I knew was that it was an OS for computer geeks. Today I’m glad I started this journey.
@@ -19,7 +19,7 @@ I started with Pop Os, on an external hard drive. After figuring out that it is 
 
 
 
-Introduction
+# Introduction
 
 Linux refers to a family of operating systems that use the linux kernel.
 Each OS based on the linux kernel is called a distribution (in short, distro). Popular distros include: Ubuntu, Manjaro, Fedora, PopOs, Linux Mint Etc…
@@ -43,18 +43,14 @@ Note: most things in linux (scripts, config files etc.) are written in a languag
 
 
 
+Here’s what my desktop (Arch + bspwm {will be described later}) looks like:
+1. Blank Desktop: https://github.com/rago27/linux/blob/theme/2021-11-23_16-12-01_screenshot.png
+2. Some terminal apps open: https://github.com/rago27/linux/blob/theme/2021-11-23_16-13-27_screenshot.png
 
 
 
 
-
-
-
-
-
-
-
-Why Linux?
+# Why Linux?
 
 Linux is freedom. It is completely open-source (meaning the source code of the OS is public) and as the name suggests it’s free(in most cases).
 Linux is highly customizable i.e. the user owns his machine and can make it however they want. (Check out some extreme examples of customization on the subreddit r/unixporn: https://www.reddit.com/r/unixporn/
@@ -78,14 +74,14 @@ Battery Life- Linux was originally made for servers (nearly all servers today, p
 Softwares- Many proprietary softwares like Adobe Suite, MS Office etc. don’t work on Linux (good open source alternatives are available, but they’re obviously not perfect clones). Quite a few games won’t work (will be mentioned later). This is a result of companies choosing to not develop softwares given how small the linux user base is (<2%). Will be talked about in depth later on.
 
 
-Window Manager (WM)
+# Window Manager (WM)
 A window manager is a program that draws and manages windows on your screen. Like size, placement etc. Every DE comes with its own WM and a lot of other stuff. For a minimal install a WM is preferred, but it’s tough to configure and generally used by advanced users. So, for now we’ll leave WM’s. Don’t go into details for now.
 Thoughts on window Managers - first get comfortable with linux and some desktop environments and the terminal before moving on to a WM
 
 Tiling WM’s eg. bspwm(what I use rn), AwesomeWM, Qtile(written in python), Xmonad(written in Haskell)
 Stacking WM’s eg. Openbox
 
-Desktop Environments (DE)
+# Desktop Environments (DE)
 
 The OS is what runs in the background while the DE refers to all the user interfaces i.e. the things you interact with. It draws your windows, includes standard apps like calendar, text editor etc., handles notifications and a bunch of other stuff. In windows/macos the DE and OS are essentially bundled together, but on Linux you can mix or match.
 
@@ -115,7 +111,7 @@ Now that you know a bit more about Linux, go online and do some research yoursel
 
 
 
-Disclaimer
+# Disclaimer
 
 I recommend you to install Linux on an external hard drive (like I did initially), until you get comfortable with it, iron out all the issues, learn the terminal, customize it till it looks cool to you and are ready to ditch your current OS. Only then install it on your internal hard drive on your main device..
 
@@ -132,7 +128,7 @@ I recommend using Linux on a separate (external) hard drive till you're ready to
 
 
 
-Installation 
+# Installation 
 (same for external and internal drives)
 
 Bootable USB
